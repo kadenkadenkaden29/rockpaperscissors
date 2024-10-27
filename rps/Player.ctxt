@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=scanner
+comment1.target=Player(java.util.Scanner)
+comment2.params=
+comment2.target=java.lang.String\ getMove()
+comment3.params=move
+comment3.target=boolean\ isValidMove(java.lang.String)
+numComments=4

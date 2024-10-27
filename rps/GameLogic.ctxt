@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GameLogic
+comment1.params=
+comment1.target=GameLogic()
+comment2.params=
+comment2.target=java.lang.String\ getComputerMove()
+comment3.params=playerMove\ computerMove
+comment3.target=java.lang.String\ determineWinner(java.lang.String,\ java.lang.String)
+numComments=4
